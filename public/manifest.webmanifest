@@ -1,0 +1,5 @@
+{
+  "name": "Archive of Stars", "short_name": "Stars", "start_url": "/", "display": "standalone",
+  "background_color": "#fff7fc", "theme_color": "#ff5fa2",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
